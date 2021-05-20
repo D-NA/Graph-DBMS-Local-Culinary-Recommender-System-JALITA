@@ -1,0 +1,11 @@
+﻿from,relationship,to
+Customer,:PURCHASED,Order
+Customer,:GIVE_RATING,Order
+Order,:CONTAINS,Menu
+Menu,:CATEGORY_OF,Kategori
+Customer,:FILL_PREFERENCE,BaselinePreferensi
+BaselineMakanan,,
+Menu,:HAS_PRODUCER,Restoran
+Restoran,:LOCATED_IN,Wilayah
+Customer,:LOCATED_IN,Wilayah
+Kategori,:HAS_ORIGIN,Wilayah

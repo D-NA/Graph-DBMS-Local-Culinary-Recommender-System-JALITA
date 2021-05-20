@@ -1,0 +1,6 @@
+﻿customerID,categoryID,asal,makananName,bahan,tekstur,aroma,rasa,caraMemasak,caraPenyajian,levelPedas,levelGurih,levelManis,levelAsin,levelAsam,levelNutrisi,levelTekstur,bahanAlami,levelKesegaran,levelKebersihan,halalStatus,hargaMakanan,makananID
+C0001,43816,Aceh,Mie aceh,Mie kuning,"Lembut, berkuah",aroma rempah yang kuat,"Gurih, pedas lada dan cabai, khas rempah",-,-,3,4,1,2,2,4,5,5,5,5,Halal,25000,bac1
+C0001,ask01,Aceh,Asam keu’eung,Ikan bandeng,"Cair, empuk",Khas belimbing wuluh,Pedas dengan dominan bumbu rempah tertentu,-,-,2,2,1,1,3,4,5,5,5,5,Halal,25000,bac2
+C0001,keu01,Aceh,Keumamah,Ikan tongkol,"Irisan kecil dan tipis, agak keras",Khas asam sunti,Gurih dengan dominan bumbuu rempah tertentu,-,-,2,1,0,1,0,3,5,5,5,5,Halal,25000,bac3
+C0001,bit01,Aceh,Boh itek teupeulemak,Telur bebek,"Berkuah (agak kental), empuk",Khas santan bercampur belimbing,Gurih dengan dominan bumbuu rempah tertentu,-,-,2,3,1,2,2,4,5,4,5,5,Halal,25000,bac4
+C0001,san01,Aceh,Sanger,Arabica,"Cair, coklat muda",Khas kopi bercampur susu,"Manis dengan dominan rasa tertentu (coklat, vanila, srikaya, aren)",-,-,2,2,1,2,2,4,5,5,5,5,Halal,15000,bac5

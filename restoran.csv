@@ -1,0 +1,374 @@
+﻿restoID,restoName,restoContact,restoAddress,latLng,latitude,longitude,wilayahID
+Amb1,Rumah Kopi Sibu-Sibu,0,"Said Perintah, Sirimau, Kel Ahusen, Sirimau, Kota Ambon, Maluku","-3.6971641, 128.1817069",-3.6971641,128.1817069,81.71
+Amb2,Padis Kitchen,85254267903,"Jl. Jend. A Yani, Kel Ahusen, Sirimau, Kota Ambon, Maluku","-3.700152999999999, 128.185062",-3.700153,128.185062,81.71
+Amb3,Nasi Kelapa Batu Merah,82197992961,"jalan Sultan Hasanudin, Batu Merah, Sirimau, Batu Merah, Sirimau, Kota Ambon, Maluku","-3.6770399, 128.1899829",-3.6770399,128.1899829,81.71
+Amb4,Pasar tradisional,0,"Pasar mahardika Kel Rijali, Sirimau, Kota Ambon, Maluku","-3.689605799999999, 128.1826084",-3.6896058,128.1826084,81.71
+Amb5,Imperial Restaurant,0,"Jl. Diponegoro No.53, Kel Ahusen, Sirimau, Kota Ambon, Maluku 97127","-3.700631, 128.1825693",-3.700631,128.1825693,81.71
+Bac1,RM. Spesifik Aceh,85277775812,"Jl. Teuku Hasan Dek, Kec. Kuta Alam, Banda Aceh","5.554942899999999, 95.33061819999999",5.5549429,95.3306182,11.71
+Bac2,RM. Khas Aceh Rayeuk,811689122,"Jl. Tgk Imum Lueng Bata, Kec. Lueng Bata, Banda Aceh","5.5401886, 95.3397172",5.5401886,95.3397172,11.08
+Bac3,RM. Dek Gam 2,85277010887,"Jl. T. Panglima Nyam Makam, Doy, Kec. Syiah Kuala, Banda Aceh","5.556970499999999, 95.344551",5.5569705,95.344551,11.71
+Bac4,Warung Nasi Hasan 3,8126979965,"Jl. Prof Ali Hasyimi, Pango Raya, kec. Ulee Kareng, Banda Aceh","5.539707400000001, 95.3472472",5.5397074,95.3472472,11.71
+Bac5,RM. Ridha Ilahi,85260209461,"Jl. Tgk. Chik Ditiro, Ateuk Pahlawan, Kec. Baiturrahman, Banda Aceh","5.5505267, 95.3261023",5.5505267,95.3261023,11.71
+Bbr1,Warung Isau,85246140424,"Jl. Karang Anyar 1, Kel. Loktabat Utara, Kec. Landasan Ulin, Kota Banjar Baru","-3.4344421, 114.8119015",-3.4344421,114.8119015,63.72
+Bbr2,Warung Bawah Asam,81359200310,"Jl. Mistar Cokrokusumo RT. 018 RW. 006 Kel. Sungai Tiung, Cempaka, Kota Banjarbaru","-3.4605983, 114.8488562",-3.4605983,114.8488562,63.72
+Bbr3,Warung 41,82149767665,"Jl. Mistar Cokrokusumo RT. 008 RW. 003 Kel. Sungai Tiung, Cempaka, Kota Banjarbaru","-3.5163982, 114.8119855",-3.5163982,114.8119855,63.72
+Bbr4,Warung Soto Arjuna,81351508558,"Jl. STM Kel. Loktabat Selatan, Kec. Banjarbaru Selatan, Kota Banjarbaru","-3.4607014, 114.8410882",-3.4607014,114.8410882,63.72
+Bbr5,Warung Rosi,81251367752,"Jl. A. Yani, Kel. Komet, Kec. Banjarbaru Utara, Kota Banjarbaru","-3.4428155, 114.8237954",-3.4428155,114.8237954,63.72
+Bdg1,Dapoer Pandan Wangi,226008838,Jl. Terusan Pasirkoja No. 275,"-6.9287901, 107.5810104",-6.9287901,107.5810104,32.73
+Bdg2,RM Asli Laksana,225206836,Jl. Soekarno-Hatta No. 395,"-6.9481783, 107.604909",-6.9481783,107.604909,32.73
+Bdg3,RM Ampera,227274844,Jl. Soekarno-Hatta No. 394,"-6.948262199999999, 107.6053482",-6.9482622,107.6053482,32.73
+Bdg4,Warung Cepot,226127800,Jl. Dr. Djunjunan No. 155D,"-6.892583399999999, 107.5832217",-6.8925834,107.5832217,32.73
+Bdg5,Nasi Bancakan,224203650,Jl. Trunojoyo No. 62,"-6.9017474, 107.6156045",-6.9017474,107.6156045,32.73
+Bgr1,Lebak wangi garden,2518612890,"Jl. Raya Parung Bogor No.KM. 39,3, Pemagarsari, Kec. Parung, Bogor, Jawa Barat 16330","-6.452132000000001, 106.7311971",-6.452132,106.7311971,32.01
+Bgr2,Rolika Catering (gepuk karuhun),2517535444,Jl. Raya Semplak No. 349 Bogor 16134,"-6.549994099999999, 106.7607513",-6.5499941,106.7607513,32.71
+Bgr3,Mie Glosor Mang Cireng,8993649001,"Jl. M.A Salmun, RT.03/RW.06, Ciwaringin, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16124","-6.590319900000001, 106.7917704",-6.5903199,106.7917704,32.71
+Bgr4,Cungkring Suryakencana,2517769908,"JL. Suryakencana, Sukasari, Bogor Timur, RT.01/RW.03, Sukasari, Kec. Bogor Tim., Kota Bogor, Jawa Barat 15417","-6.6099307, 106.8044671",-6.6099307,106.8044671,32.71
+Bgr5,Soto kuning bogor,85695861813,"L2 , Bogor Junction, Jl. Jend. Sudirman, RT.01/RW.03, Pabaton, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16121","-6.589391399999999, 106.7966503",-6.5893914,106.7966503,32.71
+Bli1,Warung Nasi Ayam Kedewatan Ibu Mangku,361974795,"Jl. Raya Kedewatan No.18, Kedewatan, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571","-8.4835164, 115.2464704",-8.4835164,115.2464704,51.04
+Bli2,Warung Nasi Ayam Bu Oki,81353213247,"Perumahan Puri Jimbaran, Jln Celaga Basur No 3Y, Uluwatu 2, Jimbaran, Jimbaran Indonesia","-8.784163, 115.172532",-8.784163,115.172532,51.03
+Bli3,Ikan Asap Al Serangn Bumbu Matah,81216214013,"Gg. Buana Asih, Padangsambian, Kec. Denpasar Bar., Kota Denpasar, Bali 80118","-8.6590058, 115.1881031",-8.6590058,115.1881031,51.71
+Bli4,Warung Rujak Glogor,361484810,"Jl. Bukit Tunggal No.27, Pemecutan, Kec. Denpasar Bar., Kota Denpasar, Bali 80119","-8.6614449, 115.211263",-8.6614449,115.211263,51.71
+Bli5,Ayam Betutu Khas Gilimanuk,8179257777,"Jl. Merdeka No.88 No.5, Sumerta Kelod, Kec. Denpasar Tim., Kota Denpasar, Bali","-8.6665029, 115.2383865",-8.6665029,115.2383865,51.71
+Blp1,Pepes Tempoyak Ikan Patin,8974711137,Perumahan Kopri Blok B3. No 14 (Taman Bunga),,#VALUE!,,18.71
+Blp2,Dapur Miima Kuliner,82279712372,Bandar Lampung,"-5.3971396, 105.2667887",-5.3971396,105.2667887,18.71
+Blp3,Bakso Judes Lampung,83177653223,Bandar Lampung,"-5.3971396, 105.2667887",-5.3971396,105.2667887,18.71
+Blp4,Yus Catering,0,Pasar Perumnas Way Halim,"-5.377002399999999, 105.2755297",-5.3770024,105.2755297,18.71
+Blp5,Kinar Resto,8117288088,Near Mitra Inovasi Negri Sukadanaham Bandarlampung,"-5.4132991, 105.234796",-5.4132991,105.234796,18.71
+Bng1,Soto Krandegan Pak Aping,00813 2743 4131,"Jalan Mayjend Sutoyo No. 35, Banjarnegara Jawa Tengah.","-7.392974199999999, 109.6974738",-7.3929742,109.6974738,33.04
+Bng2,Mie Ongklok & Sate Sapi ''Pak Tugi'',0,"Jl. Raya Semampir Km. 03, Banjarnegara",,#VALUE!,,33.04
+Bng3,TOKO OLEH OLEH KHAS BANJARNEGARA WIRARAJA,0,"Mandiraja Kulon, Mandiraja, Banjarnegara, Jawa Tengah 53473","-7.4532681, 109.5181312",-7.4532681,109.5181312,33.04
+Bng4,Pusat oleh-oleh khas dieng,0,"Jl. Raya Batur, Batur, Banjarnegara, Jawa Tengah 53456","-7.2053826, 109.8245502",-7.2053826,109.8245502,33.04
+Bng5,Pusat Oleh Oleh Barafood,0,"Al Munawwaroh RT 01 RW 2, Kutabanjarnegara, Kec. Banjarnegara, Banjarnegara, Jawa Tengah 53415","-7.399022399999999, 109.6860076",-7.3990224,109.6860076,33.04
+Jkt1,Asinan Betawi H. Mansyur (asinan kamboja),0,"Jl. Taman Kamboja No.10, RT.8/RW.11, Rawamangun, Kec. Pulo Gadung, Kota Jakarta","-6.2008342, 106.8849814",-6.2008342,106.8849814,31.75
+Jkt2,Soto Betawi H. Ma’ruf,0,"Jl. Pramuka No.64, RT.8/RW.2, Cikini, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta","-6.1931127, 106.8648176",-6.1931127,106.8648176,31.71
+Jkt3,Kedai Nasi Uduk & Ayam Goreng Zainal Fanani,0021-31903863,Jl. Kebon Kacang VIII No.5 Jakarta Pusat,"-6.1878307, 106.8186752",-6.1878307,106.8186752,31.71
+Jkt4,"Laksa Betawi Asirot, Kebun Jeruk",0,"Jl. Assirot No.1, RT.01/RW.3, Sukabumi Sel., Kec. Kb. Jeruk, Kota Jakarta Selatan","-6.2254888, 106.7742005",-6.2254888,106.7742005,31.74
+Jkt5,Gado-Gado Bonbin,0,"Jalan Cikini IV No.5, RT.14/RW.5, Cikini, Menteng, RT.14/RW.5, Cikini, Kec. Menteng, Kota Jakarta Pusat","-6.1925856, 106.8371736",-6.1925856,106.8371736,31.71
+Ken1,Rm kampung bakau kendari,8525632851,"Jl. buburandan andonouhu, kecamatn kambu","-3.983617, 122.532975",-3.983617,122.532975,74.71
+Ken2,Rm rya kendari,0,Jl. Sao-sao No.293,"-3.9899769, 122.5098839",-3.9899769,122.5098839,74.71
+Ken3,Rm pohara,0,Jl. Bigjend M yunus kendari,"-3.9813046, 122.5227915",-3.9813046,122.5227915,74.71
+Ken4,Family cafe PIER 29,4013127515,"Kompleks pier No 29, Kec kadia kota kendari.","-3.9799588, 122.511108",-3.9799588,122.511108,74.71
+Ken5,RM samudra,4013129888,"Jl. Ahmad yani No26 A,pondambea","-3.9801776, 122.5099163",-3.9801776,122.5099163,74.71
+Mks1,Coto nusantara 1,00822-5132-2220,Jl. Nusantara Baru No.142 Ende Kec.Wajo Kota Makassar,"-5.1273792, 119.4082589",-5.1273792,119.4082589,73.71
+Mks2,Konro karebosi,00851-0235-4000,Jl. Gunung Lompo Batang No.41-43 Pisang Utara Kec.Ujung Pandang Kota Makassar,"-5.134444999999999, 119.4151976",-5.134445,119.4151976,73.71
+Mks3,Rumah makan ulu juku,441421414,Jl. Prof Abdulrahman Basalamah No.99A Karampuang Kec. Panakukang Kota Makassar,"-5.145052, 119.452559",-5.145052,119.452559,73.71
+Mks4,Aroma coto gagak,81355680278,Jl. Gagak No.27 Mariso Kec.Mariso Kota makassar,"-5.1608271, 119.4114591",-5.1608271,119.4114591,73.71
+Mks5,Pallubasa Serigala,85342086888,Jl. Serigala XIV Mamajang DalamKec.Mamajang Kota Makassar,"-5.1607226, 119.4210217",-5.1607226,119.4210217,73.71
+Mnd1,RM. Pondok 17 Wakeke,85395235813,"Jl. Wakeke, Wenang, Manado.","1.4845864, 124.8384819",1.4845864,124.8384819,71.71
+Mnd2,"RM. Lidya Wakeke, Weneng.",8114342321,"Jl. Wakeke, Wenang, Manado.","1.4845864, 124.8384819",1.4845864,124.8384819,71.71
+Mnd3,"Rumah Kopi K8, Sario",81380974583,"Jl. Ahmad Yani, Sario, Manado.","1.4696812, 124.8330079",1.4696812,124.8330079,71.71
+Mnd4,Raja Oci Resto,8114324196,"Jl. Toar, Wenang, Manado","1.4819745, 124.8395799",1.4819745,124.8395799,71.71
+Mnd5,Wisata Bahari,82291155570,"Blok KSB 3C, Kawasan, Megamas",,#VALUE!,,71.71
+Pdg1,Pongek OR Situjuah,81374846595,"Jl. Khatib Sulaiman (Payakumbuh Situjuh) Limbukan, Kode pos : 26263","-0.2662066, 100.6153535",-0.2662066,100.6153535,13.71
+Pdg2,Pondok Sate danguang- danguang Ujang Bur,81268771816,Tugu adipura Kota Payakumbuh,"-0.2245496, 100.6319037",-0.2245496,100.6319037,13.71
+Pdg3,Martabak mesir H.Wan,82384888833,"Jl. Soekarno Hatta No. 237, Bulakan Balai Kandih, Kec. Payakumbuh Barat, 26223","-0.2469518, 100.611709",-0.2469518,100.611709,13.71
+Pdg4,Rumah Makan Pergaulan,85271467310,"Jl. Soekarno Hatta, Parik rantang, Kec Payakumbuh Barat, Kot Payakumbuh,26218","-0.2276282, 100.6265129",-0.2276282,100.6265129,13.71
+Pdg5,Sate Manang kabau,82363740001,Jln. Khatib sulaiman No 15 lolong belanti Kecamatan padang utara kota padang,"-0.9225201000000001, 100.3610308",-0.9225201,100.3610308,13.71
+Pkb1,Pondok Patin H M Yunus,761674796,"Jl. Kaharuddin Nst No.1, Simpang Tiga, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28284","0.4243807, 101.4378227",0.4243807,101.4378227,14.71
+Pkb2,RM Pondok Gurih,76127069,"Jl. Jenderal Sudirman No.202, Tengkerang Tengah, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28126","0.4908934, 101.4536571",0.4908934,101.4536571,14.71
+Pkb3,Pondok Asam Pedas Baung,76144750,"Rumah Sakit Awal Bros, Jalan Jend Sudirman (Didepan, Tengkerang Tengah, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28128","0.4965894, 101.456288",0.4965894,101.456288,14.71
+Pkb4,Pondok asam pedas sinar kampar,008217248 7352,Jl. Arifin Ahmad,"0.4801812, 101.4346919",0.4801812,101.4346919,14.71
+Pkb5,Pondok Masakan Khas Melayu,8127581284,"Jl. Adi Sucipto No.1 kel, Sidomulyo Tim., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28125","0.4639417, 101.4188653",0.4639417,101.4188653,14.71
+Plb1,Pempek Vira,81278018246,"Jl. Durian kec. Lubuklinggau Timur I, Kota Lubuklinggau, Sumsel","-3.2849898, 102.8861971",-3.2849898,102.8861971,16.71
+Plb2,Pempek Fenny,87894942323,"Jl. Yodusarso No.83, Kel. Taba jemekeh, Lubuklinggau, Sumsel.","-3.2795578, 102.8925049",-3.2795578,102.8925049,16.71
+Plb3,Pempek Sindang,0,"Jl. Yosudarso No.319, Kel. Jawa Kiri, Lubuklinggau, Sumsel","-3.2880747, 102.8785104",-3.2880747,102.8785104,16.71
+Plb4,Kedai Pempek 168,0,"Jl. Yosudarso, Kel Taba Koji, Lubuklinggau, Sumsel","-3.2891019, 102.8748664",-3.2891019,102.8748664,16.71
+Plb5,Warung Pempek A08,0,"Jln. Yosudarso No.15, Kel.Taba Jemekeh, Lubuklinggau, Sumsel","-3.2803181, 102.8912568",-3.2803181,102.8912568,16.71
+Pmk1,Sate lalat H. Nasir,85257638280,"Jl. Niaga Rw 03, Barurambat kota, Pamekasan (Kawasan Sae Selera)","-7.1628005, 113.4823939",-7.1628005,113.4823939,35.28
+Pmk2,Kaldu Pagghun enga’,87757872463,"Jl. Pokolan, Bugih, Pamekasan","-7.1534188, 113.473532",-7.1534188,113.473532,35.28
+Pmk3,Depot Kaldu Anda,0,"Jl. Basar blok III no. 17, Bugih, Pamekasan","-7.1557795, 113.4696591",-7.1557795,113.4696591,35.28
+Pmk4,Nasi Rames “Emmy”,81939377763,Jl. Cokroatmojo Gg. XI/5A Pamekasan,"-7.1648833, 113.4786693",-7.1648833,113.4786693,35.28
+Pmk5,Nasi Jamila,0,"Jl. Kh Agus salim no.49, Barurambat kota, Pamekasan","-7.157426699999999, 113.4835037",-7.1574267,113.4835037,35.28
+Pwt1,Getuk Goreng H. Tohirin,0,"Jl. Jend. Sudirman, Sokaraja, Banyumas, Jawa Tengah","-7.4435576, 109.2728664",-7.4435576,109.2728664,33.02
+Pwt2,Toko Mirasa,81542641181,Jl. Jenderal Sutoyo (Sawangan) no 19 Purwokerto 53131,"-7.425362499999999, 109.2265685",-7.4253625,109.2265685,33.02
+Pwt3,Mendoan eco 21,8112819130,"Jl. Mayjend Sutoyo No.21, Sawangan, Kedungwuluh, Kec. Purwokerto Barat","-7.424935499999998, 109.2268511",-7.4249355,109.2268511,33.02
+Pwt4,Raja Soto Lama H. Suradi,81226837272,"Jl. Jend. Sutoyo No. 55 RT. 04/01, Sawangan, Kedungwuluh, Purwokerto","-7.4272423, 109.2262853",-7.4272423,109.2262853,33.02
+Pwt5,Soto H. Loso,281639353,"Jl. RA Wirya Atmaja No. 15, Pesayangan, Kedungwaluh, Purwokerto","-7.4224797, 109.2260711",-7.4224797,109.2260711,33.02
+Skt1,Timlo Sastro 1,271654820,"Jl. Abdul Muis No.32A, Setabelan, Kec : Jebres","-7.563337600000001, 110.828844",-7.5633376,110.828844,33.72
+Skt2,Timlo Solo,271646180,"Jl. Jend Urip Sumoharjo No.94 Purwodiningratan, Jebres","-7.563878300000001, 110.8356642",-7.5638783,110.8356642,33.72
+Skt3,Timlo Maestro,8816502232,Jl. Ahmad Dahlan No.60 Keprabon,"-7.569379100000001, 110.8250705",-7.5693791,110.8250705,33.72
+Skt4,Serabi Notosuman Ny. Handayani,81328035373,"Jl. Moh. Yamin 51 Kratonan, Serengan, Surakarta","-7.577602600000001, 110.8198202",-7.5776026,110.8198202,33.72
+Skt5,Linco’s,2712933053,"Jl. Sutan Syahrir 100 BC Widuran, Solo","-7.565326499999999, 110.8297194",-7.5653265,110.8297194,33.72
+Srd1,RM Bu Sum,81347213706,"Jl. Kinibalu, No. 14","-7.2610119, 112.7238886",-7.2610119,112.7238886,64.72
+Srd2,Warung Pecel Bu Sur,82156464511,"Jl. Pangeran Antasari, Pasar Ijabah","-0.4989349, 117.1283032",-0.4989349,117.1283032,64.72
+Srd3,Jengkol “Rina”,0,Jl. Pangeran Antasari,"-6.275805999999999, 106.8084126",-6.275806,106.8084126,64.72
+Srd4,RM Ikan Bakar H. Ijay,82250704618,"Jl, Kadrie Oening","-0.471851, 117.1307339",-0.471851,117.1307339,64.72
+Srd5,RM Soto Banjar Nyaman Banar,81351092155,"Jl. Kadrie Oening, No. 99","-0.47207, 117.136614",-0.47207,117.136614,64.72
+Trn1,Rm Jailolo,0,Jl. Pahlawan revolusi nomor 7,"-6.244959, 106.904414",-6.244959,106.904414,82.71
+Trn2,Rumah Produksi Qonita production,8113654543,Kelurahan ngade,"0.7702751000000001, 127.3493298",0.7702751,127.3493298,82.71
+Trn3,Toko Tara No Ate,0,"Jl. Tapak raya II, gamalama","0.7926563999999999, 127.3897915",0.7926564,127.3897915,82.71
+Trn4,Rm Papeda,0,"Jl. Sultan M. Djabir Sjah, gamalama, ternate tengah, kota ternate, maluku utara","0.7906540999999999, 127.3900833",0.7906541,127.3900833,82.71
+Trn5,Tapak,0,Kelurahan salero,"0.8022098999999999, 127.3840589",0.8022099,127.3840589,82.71
+Yog1,Gudeg Yu Djum Wijilan,82138697888,"Jl. Wijilan No. 167, Panembahan, Kraton, Kota Yogyakarta","-7.804920099999999, 110.366756",-7.8049201,110.366756,34.71
+Yog2,Gudeg Bu Tjitro 1925,81575741784,"Jl. Janti No. 330, Modalan, Banguntapan, Bantul, Yogyakarta","-7.798628899999999, 110.4025607",-7.7986289,110.4025607,34.02
+Yog3,Gudeg Sagan,85100443035,"Jl. Prof Dr. Herman Yohanes No. 53, Caturtunggal, Depok, Sleman, Yogyakarta","-7.777918000000001, 110.3797758",-7.777918,110.3797758,34.04
+Yog4,Bakpia Pathok 25 Ongko Joyo,274512219,Jl.AIP II KS Tubun 65 Yogyakarta,"-7.7976975, 110.3578561",-7.7976975,110.3578561,34.71
+Yog5,Bakpia Kurnia Sari,274380052,"Jl. Glagahsari No.91C, Warungboto, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta","-7.808516899999999, 110.3879009",-7.8085169,110.3879009,34.71
+Bgr21,Penona Khas Manado,0,Bogor,,,,32.71
+Bgr22,Dapur Bayi,0,Bogor,,,,32.71
+Bgr23,Kadai Nasi Uda Ed,0,Bogor,,,,32.71
+Bgr24,Lapak Li Nis,0,Bogor,,,,32.71
+Bgr25,Pempek Elin,0,Bogor,,,,32.71
+Bgr26,Pempek Palembang Hijrah Rasa,0,Bogor,,,,32.71
+Bgr27,Mi Aceh Kurnia,0,Bogor,,,,32.71
+Bgr28,Mi Aceh Pidi 88,0,Bogor,,,,32.71
+Jkt11,Kedai Sehat,0,Jakarta,,,,31.71
+Jkt12,Selera Manado,0,Jakarta,,,,31.71
+Jkt13,Salero Rajo,0,Jakarta,,,,31.72
+Jkt14,Ombak Purus,0,Jakarta,,,,31.72
+Jkt15,Pempek Palembang Liman Sentosa,0,Jakarta,,,,31.73
+Jkt16,Pempek Tini,0,Jakarta,,,,31.73
+Tgs1,Mi Aceh Bintaro - Pondok Karya,0,Bintaro - Tangerang Selatan,,,,36.74
+Tgs2,Mie Aceh Bang Aziz - Ciputat,0,Ciputat - Tangerang Selatan,,,,36.74
+Bli6,Warung Babi Guling Pak Malen,85100452968,"Jl. Sunset Road No.554, Seminyak, Kuta, Kabupaten Badung, Bali 80361","-8.684835, 115.169037",-8.684835,115.169037,
+Bli7,Warung Be Pasih,361237755,"Jl. Pemuda III No.24, Renon, Kec. Denpasar Sel., Kota Denpasar, Bali","-8.6754852, 115.2406476",-8.6754852,115.2406476,
+Bli8,"Warung Bandrek & Nasi Jinggo ""Pak De""",87861848688,"Jl. Raya Kuta No.27, Kuta, Kabupaten Badung, Bali 80361","-8.7098891, 115.1814531",-8.7098891,115.1814531,
+Bli9,Warung Nasi Angin,81999606474,"Jl. Raya Denpasar - Gilimanuk, Meliling, Kec. Kerambitan, Kabupaten Tabanan, Bali 82161","-8.5089156, 115.078979",-8.5089156,115.078979,
+Bli10,Blayag buleleng (Warung Da Vida),87863211777,"Jl. Surapati No.124, Kp. Baru, Kec. Buleleng, Kabupaten Buleleng, Bali 81151","-8.1021143, 115.0962943",-8.1021143,115.0962943,
+Bli11,Siobak Babi Khe Lok,36222760,"Jl. Surapati No.66, Kp. Baru, Kec. Buleleng, Kabupaten Buleleng, Bali 81114","-8.1035113, 115.0928418",-8.1035113,115.0928418,
+Bli12,Be Genyol Bu Agus,85738523606,"Jl. Astasura No.14 B, Peguyangan, Kec. Denpasar Utara, Kota Denpasar, Bali 80239","-8.6123435, 115.2165247",-8.6123435,115.2165247,
+Bli13,Serombotan klungkung bu edi,85792893725,"Jln uluwatu jimbaran depan lapangan yoga perkanthi, Jimbaran, Kec. Kuta Sel., Kabupaten Badung, Bali 80361","-8.7735036, 115.171975",-8.7735036,115.171975,
+Bli14,"Laklak Bali ""Laku 168""",81343197516,"Jl. Tukad Sanghyang No.7, Panjer, Denpasar Sel., Kota Denpasar, Bali, Dauh Puri Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80224","-8.682696, 115.2255933",-8.682696,115.2255933,
+Bli15,Warung Jero Chandra,8786060861,"Jl. Serma Katos, Dauh Puri Kangin, Kec. Denpasar Bar., Kota Denpasar, Bali 80112","-8.6720501, 115.2167319",-8.6720501,115.2167319,
+Bli16,Lawar Kuwir Pan Sinar,818349451,"Jl. Kroya Gang Cemapaka No. 1, Kesiman, Denpasar Timur, Sumerta Kelod, Kec. Denpasar Tim., Kota Denpasar, Bali 80237","-8.6490143, 115.2381166",-8.6490143,115.2381166,
+Bli17,Warung Sate Kakul,3618987124,"Jl. Raya Kengetan, Singakerta, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571","-8.542112, 115.2479803",-8.542112,115.2479803,
+Bli18,Mujair Nyat Nyat Pung Green Sempidi,82339530579,"Jalan Raya Sempidi No.26, Banjar Uma Gunung, Kwanji, Sempidi, Badung, Kabupaten Badung, Bali 80351","-8.6060292, 115.1817879",-8.6060292,115.1817879,
+Bli19,Bebek Tepi Sawah Restaurant Ubud,81558070210,"Jalan raya goa gajah, banjar teges, Peliatan, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571","-8.5236352, 115.2728463",-8.5236352,115.2728463,
+Bli20,Warung Lontong Serapah Bu Komang,0,"Jl. Gajah Mada, Dangin Tukadaya, Kec. Jembrana, Kabupaten Jembrana, Bali 82218","-8.366111799999999, 114.6609162",-8.3661118,114.6609162,
+Bli21,Warung Tipat Tahu Grenceng,81333715715,"Jl. Dr. Sutomo, Pemecutan Kaja, Kec. Denpasar Utara, Kota Denpasar, Bali 80231","-8.6485091, 115.2104169",-8.6485091,115.2104169,
+Bli22,"Tipat, Es Daluman, Rujak. Khas Bali Tragia Benoa",0,"Jl. By Pass Ngurah Rai No.88, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361","-8.7843006, 115.1901353",-8.7843006,115.1901353,
+Bac6,RM. Al Hidayat,81360067005,"Jl. Hasan Saleh No. 10, Neusu, Kec. Baiturrahman, Banda Aceh","5.5390236, 95.3155857",5.5390236,95.3155857,
+Bac7,Rujak Aceh Garuda,85260817297,"Jl. Tgl. Pulo Dibaroh No. 15, Kp. Baru, Kec. Baiturrahman, Banda Aceh","5.5524755, 95.3152034",5.5524755,95.3152034,
+Bac8,Lem Bakrie,85277320036,"Jl. Prof. Ali Hasyimi, Lamteh, Kec. Ulee Kareng, Banda Aceh","5.5487951, 95.3462024",5.5487951,95.3462024,
+Bac9,RM. Trieng Gadeng,0,"Jl. Tgk Daud Bereueh, Kuta Alam, Banda Aceh","5.5634292, 95.33692649999999",5.5634292,95.3369265,
+Bac10,Rumoh Aceh Kopi Luwak,811682153,"Jl. Rawa Sakti V No. 122B, jeulingke, Kec. Syiah Kuala, Banda Aceh","5.582606999999999, 95.352385",5.582607,95.352385,
+Bac11,Warung Kopi Solong,8126973280,"Jl. T. Iskandar Muda No. 13- 14, Ceurih, Kec. Ulee Kareng, Banda Aceh","5.551563499999999, 95.35605149999999",5.5515635,95.3560515,
+Bac12,Kedai Kopi Cut Zein Forsilakubra,85211500714,"Jl. Teuku Iskandar, Beurawe, Kec. Kuta Alam, Banda Aceh","5.5535381, 95.3348326",5.5535381,95.3348326,
+Bac13,RM. Jambo Bak Trieng,81360271160,"Jl. Blang Bintang Lama, Cot Irie, Kec. Krueng Barona Jaya, Kab. Aceh Besar","5.5505849, 95.36516789999999",5.5505849,95.3651679,
+Bac14,Mie Midi,85261372000,"Jl. Teuku Chik Ditiro, Peuniti, Kec. Baiturrahman, Banda Aceh","5.551356000000001, 95.32290049999999",5.551356,95.3229005,
+Bac15,Mie Razali,6517400174,"Jl. T. Panglima Polem No. 83- 85, Peunayong,","5.5593433, 95.32134219999999",5.5593433,95.3213422,
+Bac16,RM. Aceh Jl.Rasa Utama,81263853980,"Kec. Kuta Alam, Banda Aceh T. Nyak Arief No. 200, Jeulingke, Kec. Syiah Kuala, Banda Aceh","5.5791089, 95.3515669",5.5791089,95.3515669,
+Bac17,Kedai Tubruk Khupi Khop,81370103535,"Jl. AMD, Batoh, Kec. Lueng Bata, Banda Aceh","5.5323949, 95.3291079",5.5323949,95.3291079,
+Bac18,Warung Nasi Bang Gam,85277802441,"Jl. Kayee Leu, Simpang Tiga, Kab. Aceh Besar","5.485571699999999, 95.3549458",5.4855717,95.3549458,
+Bac19,RM. Millenium Ujong Batee,82285077901,"Jl. Teuku Muhammad Hasan, Jambo Tapee, Kec. Kuta Alam, Banda Aceh","5.5597779, 95.3313538",5.5597779,95.3313538,
+Bac20,RM. Delima Baru,85260815907,"Jl. Lintas Sumatera, Lambaro, Kec. Ingin Jaya, Kab. Aceh Besar","5.5117588, 95.35753919999999",5.5117588,95.3575392,
+Bac21,RM. Aditya Jaya,85277804413,"Jl. Blang Bintang Lama, Bueng Bakjok, Kec. Kuta Baro, Kab. Aceh Besar","5.5530674, 95.3896927",5.5530674,95.3896927,
+Bac22,RM. Bu Si Itek Bireuen,0,"Jl. Teuku Umar, Geuceu Kayee Jato, Kec. Banda Raya, Banda Aceh","5.5334727, 95.3056764",5.5334727,95.3056764,
+Bac23,Sate Matang D’Wan,0,"Jl. Medan-Banda Aceh, Blang Cut, Kec. Lueng Bata, Banda Aceh","5.5404101, 95.3337801",5.5404101,95.3337801,
+Bac24,Warung Sate Yakin Rasa,81362624919,"Jl. Sri Ratu Syafiatuddin, Peunayong, Kec. Kuta Alam, Banda Aceh","5.5568271, 95.3204397",5.5568271,95.3204397,
+Bac25,Horas Kopi Gayo,82295147914,"Jl. T. Nyak Arief, Lamgugob, Kec. Syiah Kuala, Banda Aceh","5.5763956, 95.3550088",5.5763956,95.3550088,
+Blp6,Oya Cookies Lampung,81802651195,Bandar Lampung,"-5.3971396, 105.2667887",-5.3971396,105.2667887,
+Blp7,Lakita Bakery and Cake,89610699686,Jl. Kimaja no. 16A Way Halim,"-5.3858961, 105.2676451",-5.3858961,105.2676451,
+Blp8,Bakso Sony Lampung,0,Jl. ZA pagar alam,"-5.3736374, 105.2414781",-5.3736374,105.2414781,
+Blp9,RM Khas Lampungg,0,"Jl. Pangeran Emir, Bandar Lampung","-5.425966799999999, 105.2467786",-5.4259668,105.2467786,
+Blp10,Dapoer Gober,0721487652/ 0853786888886,"Way Semangka, Pahoman","-5.4275297, 105.2728376",-5.4275297,105.2728376,
+Blp11,Eva Kitchen,0,Jl. Raya Hajimena No.11,"-5.3581408, 105.2225342",-5.3581408,105.2225342,
+Blp12,Chanas kitchen,0,Perumahan bumi sukarame damai lampung,"-5.3855063, 105.3141488",-5.3855063,105.3141488,
+Blp13,Home’s Lampung,811724050,"Jl. Danau Toba No.24 Kedaton, Bandar Lampung","-5.391556, 105.2638727",-5.391556,105.2638727,
+Blp14,Encim Gendut,82306087294,Jalan lindu no.6 Bandar Lampung,"-5.4189013, 105.2542002",-5.4189013,105.2542002,
+Blp15,Dapur Kito Lampung,82282718054,Jl. Gatot subroto no.32 bandar lampung,"-5.427634299999999, 105.2755191",-5.4276343,105.2755191,
+Blp16,Nasi bakar bucik an,8972354378,Jl teuku umar no.85 penengahan bandarlampung,"-5.402635000000001, 105.259654",-5.402635,105.259654,
+Blp17,Emah Cooking,89669340070,Way kandis Bandar lampung,"-5.353445499999999, 105.2867776",-5.3534455,105.2867776,
+Blp18,Ramen meledak rajabasa,82289638943,"Jl. Teuku umar, kedaton, bandarlampung","-5.3854687, 105.2609671",-5.3854687,105.2609671,
+Blp19,Kepiting nyeblak,81379773736,PU jl. Pagar alam gg. Lambing labuhan ratu kedaton bandarlampung,"-5.3816355, 105.2578061",-5.3816355,105.2578061,
+Bdg6,Raja Sunda,226037688,Jl. Dr. Djunjunan No. 63,"-6.8970828, 107.5912691",-6.8970828,107.5912691,
+Bdg7,Daun Pisang Gurame Goreng Garing,222037575,Jl. Dr. Setiabudi No. 154,"-6.8734126, 107.5963088",-6.8734126,107.5963088,
+Bdg8,Alas Daun,227231101,Jl. Citarum No. 34,"-6.9016765, 107.625125",-6.9016765,107.625125,
+Bdg9,Raja Rasa,222005070,"Jl. Setraria No.1, Sukasari, Bandung","-6.8798293, 107.5839423",-6.8798293,107.5839423,
+Bdg10,Ayam Bakar & Maranggi Neng Katineung,87700302097,Jl. HMS Mintareja Sarjana Hukum No. 17,"-6.895788599999999, 107.5419343",-6.8957886,107.5419343,
+Bdg11,Waroeng Setiabudhi (surabi dan baso kampung),222017895,"Jl. Setiabudi No. 175, Cidadap, Bandung","-6.8677589, 107.5935911",-6.8677589,107.5935911,
+Bdg12,Batagor Haji Darto,89624418880,"Jl. Ir. H. Djuanda No. 202, Coblong, Bandung (tepat di dalam pasar simpang)","-6.884881999999999, 107.614193",-6.884882,107.614193,
+Bdg13,Mie kocok mang dadeng,85221205070,"Jl. Kiai Haji Ahmad Dahlan No. 67 Lengkong, Bandung","-6.9344829, 107.6244316",-6.9344829,107.6244316,
+Bdg14,Paviliun sunda,224267700,Jl. L. L. RE. Martadinata No. 97 Bandung,"-6.9055019, 107.6200986",-6.9055019,107.6200986,
+Bdg15,Batagor Kingsley,224207104,"Jl. Veteran No. 25, kb Pisang, Kec. Sumur, Bandung","-6.9190333, 107.6153821",-6.9190333,107.6153821,
+Bdg16,Gang Nikmat,85624545466,"Jl. Cihapit No. 6, Bandung","-6.9083343, 107.62175",-6.9083343,107.62175,
+Bdg17,Ma' Uneh,222011859,"Jl. Setiabudi No. 156, Bandung","-6.873806300000001, 107.5961402",-6.8738063,107.5961402,
+Bdg18,Seblak Abdul,0,"Jl. Bapa Husein No. 5a, kec. Coblong, Bandung","-6.8913186, 107.6034609",-6.8913186,107.6034609,
+Bdg19,Resto sajian sunda Sambara,81224484598,"Jl. Trunojoyo No. 64, citarum, Kec.Bandung Wetan, Bandung","-6.9017405, 107.6159812",-6.9017405,107.6159812,
+Bdg20,Cafe bali,227106147,"Jl. L. L. RE. Martadinata No. 211-214, Bandung","-6.913627, 107.6295",-6.913627,107.6295,
+Bdg21,Dalaraos,222034004,Jl. Siliwangi No. 43,"-6.884550699999999, 107.6062351",-6.8845507,107.6062351,
+Bdg22,Pasar Cisangkuy,227235509,"Jl. Cisangkuy No.64, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115","-6.902012099999999, 107.6214627",-6.9020121,107.6214627,
+Bbr6,Warung Soto H. Anang Ayam Bapukah,5116261225,"Jl. A. Yani Kel. Loktabat Selatan, Kec. Banjarbaru Selatan, Kota Banjarbaru","-3.4430676, 114.8374651",-3.4430676,114.8374651,
+Bbr7,Warung Dian,8125009313,"Jl. A. Yani, Kel. Guntung Payung, Kec. Landasan Ulin, Kota Banjar Baru","-3.4444358, 114.8164533",-3.4444358,114.8164533,
+Bbr8,Warung Rahmat Queen,0,"Jl. A. Yani, Kel. Guntung Payung, Kec. Landasan Ulin, Kota Banjar Baru","-3.4444358, 114.8164533",-3.4444358,114.8164533,
+Bbr9,Warung Berkah,81349300432,"Jl. Panglima Batur Timur, Kel. Loktabat Utara, Kec. Banjarbaru Utara, Kota Banjar Baru","-3.439273, 114.8366712",-3.439273,114.8366712,
+Bbr10,Mie Bancir Khas Banjar Ala Agus Sasirangan,0,"Jl. Panglima Batur No. 45, Kel. Loktabat Utara, Kec. Banjarbaru Utara, Kota Banjar Baru","-3.438967, 114.8392538",-3.438967,114.8392538,
+Bbr11,RM. Pondok Pisang,81348681121,"Jl. Karang Anyar 1 No. 20, Kel. Loktabat Utara, Kec. Banjarbaru Utara, Kota Banjar Baru","-3.4346799, 114.8167488",-3.4346799,114.8167488,
+Bbr12,RM. Sambal Acan Raja Banjar,85346050453,"Jl. A Yani Km. 35, Kec. Banjarbaru Selatan, Kota Banjarbaru","-3.4427633, 114.8342514",-3.4427633,114.8342514,
+Bbr13,RM. Nasi Itik Tenda Biru Gambut,0,"Jl. A. Yani KM 14, Malintang Baru, Gambut, Kayu Bawang, Kec. Gambut, Banjar","-3.4107541, 114.6679866",-3.4107541,114.6679866,
+Bbr14,RM. Sate H. Suri Budi Mulia,05114723323/85103409955,Jl. A. Yani Km. 40,"-2.4738649, 111.7715745",-2.4738649,111.7715745,
+Bng1,Soto Krandegan Pak Aping,0813 2743 4131,"Jalan Mayjend Sutoyo No. 35, Banjarnegara Jawa Tengah.","-7.392974199999999, 109.6974738",-7.3929742,109.6974738,
+Bng3,,0,"Mandiraja Kulon, Mandiraja, Banjarnegara, Jawa Tengah 53473","-7.4532681, 109.5181312",-7.4532681,109.5181312,
+Bng4,TOKO OLEH OLEH KHAS BANJARNEGARA WIRARAJA,0,"Jl. Raya Batur, Batur, Banjarnegara, Jawa Tengah 53456","-7.2053826, 109.8245502",-7.2053826,109.8245502,
+Bng5,Pusat oleh-oleh khas dieng,0,"Al Munawwaroh RT 01 RW 2, Kutabanjarnegara, Kec. Banjarnegara, Banjarnegara, Jawa Tengah 53415","-7.399022399999999, 109.6860076",-7.3990224,109.6860076,
+Bng6,Pusat Oleh Oleh Barafood,0,"Sumberejo, Batur, Banjarnegara, Jawa Tengah 53456","-7.208220900000001, 109.8335818",-7.2082209,109.8335818,
+Bng7,RIDAKA oleh-oleh,286479220,"Jl. A. Yani 576 Purwareja Klampok, Banjarnegara, Jawa Tengah","-7.4735307, 109.4291922",-7.4735307,109.4291922,
+Bng8,Toko Megasari,0,"Jl. Kijagapati I No.33, Kutabanjarnegara, Krandegan, Kec. Banjarnegara.","-7.391007599999999, 109.6981634",-7.3910076,109.6981634,
+Bng9,Warung Makan Soto Krandegan,0,"Alun alun Banjarnegara Jl. Dipayuda No.30A, Kel, Krandegan, Kec. Banjarnegara, Banjarnegara, Jawa Tengah 53474","-7.3950125, 109.6983059",-7.3950125,109.6983059,
+Bng10,Dawet Ayu Banjarnegara,0,"Perumahan Karmel, Dusun Sidodadi, Purworejo, Kec. Purworejo Klampok, Banjarnegara, Jawa Tengah 53474","-7.477682499999998, 109.4419867",-7.4776825,109.4419867,
+Bng11,Oemah Mendoan Raksasa Kang Sarwono,0,,#ERROR!,#ERROR!,,
+Bng12,"Dawet Ayu Banjarnegara, Pak Sunardi",0,"Jl. Sunan Gripit, Rejasa, Madukara, Banjarnegara, Jawa Tengah 53482","-7.389059, 109.6938535",-7.389059,109.6938535,
+Bng13,Bakso dan Dawet Ayu Asli Hj. Munardjo,0,"Jl. M.T. Haryono No.12-22, Krandegan, Kec. Banjarnegara, Banjarnegara, Jawa Tengah 53474","-7.394530499999999, 109.6991441",-7.3945305,109.6991441,
+Bng14,Soto Khas Krandegan Bp Sukisno,0,"Jl. M.T. Haryono, RW.04, Krandegan, Kec. Banjarnegara, Banjarnegara, Jawa Tengah 53474","-7.395346, 109.6989274",-7.395346,109.6989274,
+Bng15,Toko Lintang,0,"Jl. Jend A. Yani 379, Purwareja Klampok 53474","-7.4740055, 109.4291365",-7.4740055,109.4291365,
+Bgr6,Doclang 405 (Doclang Jembatan Merah),0,"Jl. Kapten Muslihat No.22, RT.01/RW.03, Cibogor, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16124","-6.595581699999999, 106.7885781",-6.5955817,106.7885781,
+Bgr7,Doclang Bapak Odik,89636022826,"Jl. Pasir Kuda No.23, Pasir Jaya, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16119","-6.6042627, 106.7855912",-6.6042627,106.7855912,
+Bgr8,Laksa Bogor Tradisional Ibu Lili,83819777018,"Food Court SKI Tas Tajur, Jalan Katulampa No. 6, Katulampa, Bogor Timur, RT.06/RW.01, Katulampa, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16141","-6.6217646, 106.8214054",-6.6217646,106.8214054,
+Bgr9,Laksa Bogor Kang Dadi,82164239173,"Jl. Wuwung 2 No.57, RT.02, RT.01/RW.09, Tegal Gundil, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16153","-6.5849107, 106.811756",-6.5849107,106.811756,
+Bgr10,Warung Laksa Pak Inin,81297305335,"Jl. Palasari, Palasari, Kec. Cijeruk, Bogor, Jawa Barat 16740","-6.652784899999999, 106.8002684",-6.6527849,106.8002684,
+Bgr11,Laksa Bogor Permai: TRISNA,87853535684,"Jl. Sawojajar No.6-43, RT.02/RW.04, Pabaton, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16121","-6.588167899999999, 106.795185",-6.5881679,106.795185,
+Bgr12,RM. Nasi Timbel Saung Sunda,2517533575,"Jl. Sholeh Iskandar No.9, RT.04/RW.03, Cibadak, Kec. Tanah Sereal, Kota Bogor, Jawa Barat 16164","-6.556564499999999, 106.7778239",-6.5565645,106.7778239,
+Bgr13,Nasi Timbel Lido,85774698324,"Jl. Jend. Sudirman Blok, Gg. Lb. Pilar No.58B, Sempur, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16121","-6.581453, 106.7969978",-6.581453,106.7969978,
+Bgr14,Nasi Timbel M11,2518328867,"Jl. Botani Square No.11, RT.02/RW.05, Tegallega, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16129","-6.599115299999999, 106.8066149",-6.5991153,106.8066149,
+Bgr15,Asinan Asli Bogor,2518371666,"Jl. Ir. H. Juanda No.90, RT.02/RW.01, Gudang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16123","-6.6039046, 106.7972057",-6.6039046,106.7972057,
+Bgr16,Asinan Bogor Gedung Dalam (Pusat),2518313099,"Jl. Siliwangi No.27C, RT.02/RW.02, Sukasari, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16142","-6.6173771, 106.8117629",-6.6173771,106.8117629,
+Bgr17,Asinan Bogor & Ayam Goreng Dewi Sri,81218133441,"Address: Jl. Sukasari 1 No.6B, RT.07/RW.02, Sukasari, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16142","-6.6176501, 106.8130779",-6.6176501,106.8130779,
+Bgr18,"Warung Makan Soto Mie ""NENE""",81219794878,"KP.Citayam Rt 01/05 no.35 ds.ragajaya kec.bojonggede kab.bogor, Ragajaya, Kec. Bojong Gede, Bojonggede, Bogor, Jawa Barat 16320","-6.450713599999999, 106.8014936",-6.4507136,106.8014936,
+Bgr19,Soto Mie Mang Ohim,82125152678,"Jl. Taman Cimanggu Raya No.22, RT.02/RW.02, Kedung Waringin, Kec. Tanah Sereal, Kota Bogor, Jawa Barat 16164","-6.5684868, 106.7854959",-6.5684868,106.7854959,
+Bgr20,Soto Mie Taman Yasmin,8981850970,"Ruko Taman Yasin Sektor VI, Jl Kh. Abdullah Bin Muhammad Nuh, RT.04/RW.09, Curugmekar, Kec. Bogor Bar., Bogor Barat, Jawa Barat 16113","-6.5591129, 106.7683909",-6.5591129,106.7683909,
+Jkt3,Kedai Nasi Uduk & Ayam Goreng Zainal Fanani,021-31903863,Jl. Kebon Kacang VIII No.5 Jakarta Pusat,"-6.1878307, 106.8186752",-6.1878307,106.8186752,
+Jkt6,Nasi Goreng Kambing Kebon Sirih,0,"Jl. Kebon Sirih, RT.3/RW.2, Raya, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta","-6.183021399999999, 106.8271469",-6.1830214,106.8271469,
+Jkt7,Kue Khas Betawi Ibu Gomak,0,"Jl. Jati R.Mangun, RT.3/RW.4, Jati, Kec. Pulo Gadung, Kota Jakarta Timur","-6.191883199999999, 106.8996725",-6.1918832,106.8996725,
+Jkt8,Kerak telor Bang Sape’i,0813-1465-8527,"jl.Kebagusan III No. 97 Pasar Minggu, RT.2/RW.5, Kebagusan, Kec. Ps. Minggu, Kota Jakarta Selatan","-6.3093657, 106.8295232",-6.3093657,106.8295232,
+Jkt9,Warung Bir Pletok,0,"Jl. Situ Babakan No.18, RT.7/RW.5, Srengseng Sawah, Kec. Jagakarsa","-6.3393381, 106.8245786",-6.3393381,106.8245786,
+Jkt10,Nasi Uduk / Kue Lopis Betawi,0856-8810-072,"Jalan Raya Bogor KM.21, Kramat Jati, Kramatjati, RT.15/RW.11, Kramat Jati, Kec. Kramat jati, Kota Jakarta Timur","-6.2708545, 106.868087",-6.2708545,106.868087,
+Ken6,Cafe kendari saefood,85242414999,"Jl. Meyjen S parman No 9, kemaraya, kendari bar.","-3.9658835, 122.5316643",-3.9658835,122.5316643,
+Ken7,RM teluk kendari,0,"Tipulu, kendari bar kota kendari","-3.9549231, 122.5514155",-3.9549231,122.5514155,
+Ken8,RM Kampoeng empang,82299933427,"Kambu, kecamatan kambu kota kendari","-4.0039848, 122.5287884",-4.0039848,122.5287884,
+Ken9,Rm Medulu,4013125400,Jl. Lawata No 2 mandonga kec mandonga kota kendari,"-3.9663426, 122.5155817",-3.9663426,122.5155817,
+Mks1,Coto nusantara 1,0822-5132-2220,Jl. Nusantara Baru No.142 Ende Kec.Wajo Kota Makassar,"-5.1273792, 119.4082589",-5.1273792,119.4082589,
+Mks2,Konro karebosi,0851-0235-4000,Jl. Gunung Lompo Batang No.41-43 Pisang Utara Kec.Ujung Pandang Kota Makassar,"-5.134444999999999, 119.4151976",-5.134445,119.4151976,
+Mks6,Pisang Epe Mandiri,0,Jl. Ali Malaka No.45 Kec.Ujung Pandang Kota Makassar,"-5.1407804, 119.407481",-5.1407804,119.407481,
+Mks7,Mie Titi Perintis,441584300,Jl. Perintis Kemerdekaan Tamalanrea jaya Kec.Tamalanrea Kota Makassar,"-5.1413308, 119.4849608",-5.1413308,119.4849608,
+Mks8,Warung Sop Ubi Datumuseng,81524982909,"Jl. Datu Museng, Losari Kec.Ujung pandang Kota Makassar","-5.1435001, 119.4099681",-5.1435001,119.4099681,
+Mks9,Warung Songkolo Bagadang Alhamdulillah,82396650503,"Jl. Pengayoman Komp Pasar Segar Kampung Kuline, Kec.Panakukang Kota Makassar","-5.1622318, 119.4515654",-5.1622318,119.4515654,
+Mks10,Coto Paraikatte,82345000086,Jl. A. P. Pettarani No.125 Bua Kana Kec.Rappocini Kota Makassar,"-5.156935199999999, 119.4366481",-5.1569352,119.4366481,
+Mks11,Sop Saudara Irian 1,811448885,Jl. Dokter Wahidin Sudiro Husodo No.40 Pattunuang Kec.Wajo Kota Makassar,"-5.1293559, 119.4123547",-5.1293559,119.4123547,
+Mks12,Coto Paraikatte Perintis,85656442534,Jl. Perintis Kemerdekaan KM.9 Kec.Tamalanrea Kota Makassar,"-5.141403299999999, 119.4816332",-5.1414033,119.4816332,
+Mks13,Mama Toko Kue dan Es Krim,411435672,Jl. Bau Mangga No.9 Masale Kec.Panakkukang Kota Makassar,"-5.1615056, 119.4438452",-5.1615056,119.4438452,
+Mks14,Disepanjang Pantai Losari,0,"Jalan Penghibur, Losari Kec.Ujung Pandang Kota Makassar","-5.1387485, 119.4057848",-5.1387485,119.4057848,
+Mnd6,RM. Dabu Dabu Lemong,82393429550,"Jl. Boulevard 2, Tuminting, Manado","1.5107804, 124.8441907",1.5107804,124.8441907,
+Mnd7,Tuna House Resto,85299990112,"Jl. Karangria, kecamatan tuminting, manado","1.5134969, 124.8486181",1.5134969,124.8486181,
+Mnd8,Wakop Kemang Manado,82191515351,Jl. Boulevard 2 No. 1 Kompleks Kawasan Sindulang Megamas,"1.4844215, 124.8329818",1.4844215,124.8329818,
+Mnd9,Bambuden Resto,85100372961,"Jl. Pemuda 1, Sario, Manado","1.4674787, 124.8340884",1.4674787,124.8340884,
+Mnd10,RM. Mutiara,4317284052,"Kompleks Ruko Winangun, Jl. Samratulangi, Malalayang, Manado","1.4775381, 124.8372026",1.4775381,124.8372026,
+Mnd11,RM. Raja Ikan Bakar Stadion Klabat,82194243338,"Jl. Stadiom Klabat, Sario, Manado","1.4585766, 124.8371443",1.4585766,124.8371443,
+Mnd12,Mawar Sharron Resto,431859866,"Wanea Plaza, Jl. Sam Ratulangi, Wanea, Manado","1.4636371, 124.8397635",1.4636371,124.8397635,
+Mnd13,RM. Afui,81242889000,"Jl. Samratulangi No. 383, Wanea, Manado","1.4636259, 124.8408527",1.4636259,124.8408527,
+Mnd14,RM. Pignik,81273396416,"Jl. Santo Joseph, Sari","3.5395425, 98.60460359999999",3.5395425,98.6046036,
+Mnd15,RM. Om Pala Sario,8987775344,"Jl. Laut Aru, Sario, Manado","1.4622136, 124.8360048",1.4622136,124.8360048,
+Mnd16,RM. Berkat Bersama,85342167171,"Jl. Wolter Monginsidi, Malalayang, Manado","1.4577022, 124.80624",1.4577022,124.80624,
+Mnd17,RM. Natasya Tikala,0,"Jl. Lumimuut, Wenang, Manado","1.4830216, 124.8458906",1.4830216,124.8458906,
+Mnd18,RM. Raja Kepiting Wenang,82293935566,"Jl. Jendral Sudirman, Wenang, Manado","1.4892748, 124.84499",1.4892748,124.84499,
+Mnd19,RM. Wulan,82324268558,"Jl. Sam Ratulangi No. 435, Sario, Manado","1.4577736, 124.8378796",1.4577736,124.8378796,
+Mnd20,"RM. Pelmas Tanta Olla, Ikip Bawah",81340341222,"Jl. Bethesda, Sario, Manado","1.4637439, 124.832889",1.4637439,124.832889,
+Pdg6,Ikan bakar Pondok mungil pak tris,75138211,Jln Hos Cokroaminoto 88B Kota Padang,"-0.9601245, 100.3563738",-0.9601245,100.3563738,
+Pdg7,RM lamun Ombak,7517051426,Jln Khatib Sulaiman no 99 Ulak karang selatan Kecamatan Padang Utara Kota padang,"-0.9089899999999999, 100.3530861",-0.90899,100.3530861,
+Pdg8,RM Sederhana Padang,751447774,Jln Rasuna Said no 81 A Rimbo kaluang Kecamatan Padang barat Kota Padang,"-0.9306384999999998, 100.3610073",-0.9306385,100.3610073,
+Pdg9,RM Silungkang,7518957080,Simpang haru Sawahan Timur Kota Padang,"-0.9422038, 100.3758936",-0.9422038,100.3758936,
+Pdg10,Es Durian Ganti Nan Lamo,75126203,Jln HOS Cokroaminoto No 31b Kota padang,"-0.959179, 100.3609839",-0.959179,100.3609839,
+Pdg11,Malabar Arham,82169173753,Jln Mahakam no 23 Kota Padang,"-0.8969115999999999, 100.3757571",-0.8969116,100.3757571,
+Pdg12,Es Durian iko gantinyo,8561103785,JlnPulauKaramno103BKotapadang,"-0.9593968, 100.3606061",-0.9593968,100.3606061,
+Pdg13,Galamai Tek Tam,81316748855,"Jl. Latsitarda, Payakumbuh","-0.2235621, 100.623916",-0.2235621,100.623916,
+Pdg14,Sanjai Rina,81363429779,"Sanjai Rina Jl. Imam Bonjol, belakang terminal Koto nan Ampek, Kota Payakumbuh, Sumatra Barat","-0.2410761, 100.6103835",-0.2410761,100.6103835,
+Pdg15,CHIP christine hakim Idea park,8116685000,"Jl. Adinegoro no 11 A, padang, Indonesia","-0.8403742999999999, 100.3291078",-0.8403743,100.3291078,
+Pdg16,Asia Baru,81371792628,Jl. Soekarno hatta depan budiman,"-0.226861, 100.6280604",-0.226861,100.6280604,
+Pdg17,Kawa daun,82286995554,"Situjuah Limo Nagari, Pyakumbuh","-0.3036745, 100.6309169",-0.3036745,100.6309169,
+Pdg18,Rumah Makan yul,82281868975,"Jl. Jend Ahmad Yani, Labuh Basilang, Kota Payakumbuh, 27218","-0.232659, 100.637773",-0.232659,100.637773,
+Pdg19,Rumah makan mis Munin,0,"Jl. Raya Negara No. KM 9, sarilamak, Kec. Harau, Kab. Lima Puluh Kota, Sumbar, 26271","-0.1285112, 100.6872457",-0.1285112,100.6872457,
+Pdg20,Tangah sawah Resto,811666250,Djamalludin wak Ketok Pisang- Pauh - Padang,"-0.9441423999999999, 100.4073311",-0.9441424,100.4073311,
+Plb6,Mie ayam dan pempek phoniek,0,"Jln. Yosudarso No. 67 kel. Pasar pemiri, Lubuklinggau, Sumsel","-3.2962281, 102.863281",-3.2962281,102.863281,
+Plb7,Model ojo lali,0,"Jl. Garuda dempo RT. 01, Kel. Keputraan, Lubuklinggau, Sumsel","-3.2932303, 102.8584668",-3.2932303,102.8584668,
+Plb8,Pempek Oshin,0,"Jl. Bukit kaba No.194, Kel. Dempo, Lubuklinggau, Sumsel.","-3.2955513, 102.8682555",-3.2955513,102.8682555,
+Plb9,Pempek dan Tekwan SMA xaverius,0,"Jl. Tapak Lebar 2No. 499, Kel. Sidorejo, Lubuklinggau, Sumsel","-3.2885819, 102.8529217",-3.2885819,102.8529217,
+Plb10,Kedai Pempek Setungguan – Air Kuti,0,"Jl. Lapter Silampari, Kel. Air Kuti, Lubuklinggau, Sumsel","-3.2766374, 102.9143722",-3.2766374,102.9143722,
+Plb11,Pempek cek ida,0,"Jl. Garuda, kel bandung kiri, lubuklinggau, Sumsel","-3.2981351, 102.8595607",-3.2981351,102.8595607,
+Plb12,Pempek Mang Cek Kai,0,"Jl. Yosudarso no 19, kel. Dempo, Lubuklinggau, Sumsel","-3.2944794, 102.8678739",-3.2944794,102.8678739,
+Plb13,Pempek Familidin,0,"jl. Yosudarso No 147, Kel Watervang, Lubuklinggau, Sumsel","-3.2773511, 102.8962274",-3.2773511,102.8962274,
+Plb14,Kedai pempek Cek nai,0,"Jl. Kelabat No 07, Kel Jawa kiri, lubuklinggau, Sumsel","-3.2909438, 102.8733519",-3.2909438,102.8733519,
+Plb15,Model ikan Tiga Putra,0,"Jl. Malabar, Kel. Jawa Kiri, Lubuklinggau, Sumsel","-3.2904905, 102.8739342",-3.2904905,102.8739342,
+Plb16,Model Ikan Ony Sobirin,0,"Jl. Kesehatan, Kel. Bandung Kiri, Lubuklinggau Sumsel","-3.2979446, 102.8627865",-3.2979446,102.8627865,
+Plb17,Warung Nasi Pindang tulang – Pasar satelit,0,"Jl. Kenanga II Lintas Gang kenari No 106, kel. Pasar setelit, lubuklinggau, Sumsel","-3.2860635, 102.8662413",-3.2860635,102.8662413,
+Plb18,Pindang ogan Pemiri- Pasar Pemiri,0,"Jl. Jend sudirman, kel pasar pemiri, lubuklinggau, sumsel","-3.2939722, 102.8630653",-3.2939722,102.8630653,
+Plb19,Pindang meranjat,0,"Jl. Yosudarso no 2, kel taba pingin, lubuklinggau, sumsel","-3.2729488, 102.9290757",-3.2729488,102.9290757,
+Plb20,Saung Sempurna,0,"Jln Yos sudarso Rt 03, kel taba jemekeh, lubuklinggau, sumsel","-3.2885418, 102.8764408",-3.2885418,102.8764408,
+Pmk6,Warung bebek Ny. Nurul,85233767191,"Jl. Kabupaten no.54, Sumur putih, Pamekasan","-7.1580824, 113.4758049",-7.1580824,113.4758049,
+Pmk7,Warung ojo lali,82322959158,"Perum Tlanakan Indah Blok G no. 10, Pamekasan","-7.199562299999999, 113.4418908",-7.1995623,113.4418908,
+Pmk8,Sate lalat Pak Mat,87850537571,"Jl. Niaga Rw 03, Barurambat kota, Pamekasan (Kawasan Sae Selera)","-7.1628005, 113.4823939",-7.1628005,113.4823939,
+Pkb4,Pondok asam pedas sinar kampar,08217248 7352,Jl. Arifin Ahmad,"0.4801812, 101.4346919",0.4801812,101.4346919,
+Pkb6,Sup Tunjang Pertama,0,"Jl. Soekarno - Hatta, Sidomulyo Tim., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28289roti jala","0.4603134, 101.4183501",0.4603134,101.4183501,
+Pkb7,Sultan Esto,0,Jl Ronggowarsito,"-7.812245300000001, 112.0104488",-7.8122453,112.0104488,
+Pkb8,Roemah Miso dan Mie Sagu Bengkalis.,0,Jl Kenanga,"-7.6824637, 110.8368696",-7.6824637,110.8368696,
+Pkb9,Pondok Yurika,0,Jalan Dr. Soetomo,"-7.2834635, 112.7353859",-7.2834635,112.7353859,
+Pkb10,RUmah Makan Sarina,0,Jalan Arifin Ahmad,"0.4801812, 101.4346919",0.4801812,101.4346919,
+Pkb11,Gerai Al Mahdi,0,Jalan Rajawali No 72 D,,#VALUE!,,
+Pkb12,Lopek Bugi Elis,81371330273,Jalan Arifin Ahmad,"0.4801812, 101.4346919",0.4801812,101.4346919,
+Pkb13,Mieso Pak Lek,0,"Jalan Thamrin Ujung, Pekanbaru","0.5158035, 101.4626577",0.5158035,101.4626577,
+Pkb14,Warung Era 51,82171824499,"Jalan Kaharuddin Nasution Nomor 31, Bukit Raya, Pekanbaru","0.4706384, 101.4544612",0.4706384,101.4544612,
+Pkb15,Rumah Makan Sarina,0,Arifin Ahmad,"0.4787744, 101.4332088",0.4787744,101.4332088,
+Pkb16,Warung Merry,8127608222,"Jl. Mutiara No.35B, Padang Terubuk, Kec. Senapelan, Kota Pekanbaru, Riau 28155","0.5330848, 101.4294478",0.5330848,101.4294478,
+Pkb17,Rumah Makan Pelangi 88,81270723428,"Jl. Dr. Sutomo No.32 A, Pesisir, Kec. Lima Puluh, Kota Pekanbaru, Riau 28155","0.537037, 101.456466",0.537037,101.456466,
+Pkb18,Arwana,0,Jalan Tuanku Tambusai,"0.5004387, 101.4169976",0.5004387,101.4169976,
+Pkb19,Kue Bangkit Kembang Melati,76122668,"Jl. Letkol Hasan Basri No.2, Cinta Raja, Kec. Sail, Kota Pekanbaru, Riau 28127","0.5073246, 101.4515838",0.5073246,101.4515838,
+Pkb20,Mie Sagu Bu Tuti,82172094654,"Jl. Ronggo Warsito, Suka Maju, Kec. Sail, Kota Pekanbaru, Riau 28127","0.5131861999999999, 101.4586159",0.5131862,101.4586159,
+Pkb21,Roemah Miso Dan Mie Sagu Bengkalis,8127626166,"Jl. Kenanga No.59, simpang melati, Kec. Senapelan, Kota Pekanbaru, Riau 28155","0.5321234, 101.4373765",0.5321234,101.4373765,
+Pkb22,Sop Tunjang & Soto Sadira 3,81386894448,"Jalan Rajawali No.88A Kel, Kedungsari, Kec. Sukajadi, Kota Pekanbaru, Riau 28123","0.5174532, 101.4335066",0.5174532,101.4335066,
+Pkb23,Roti Jala,81364679087,"Limbungan Baru, Rumbai Pesisir, Pekanbaru City, Riau 28266","0.5640009, 101.4424324",0.5640009,101.4424324,
+Pkb24,Roti Jala Ummi Saos Durian,85262815345,"perum dwi beringin indah, Jl. Beringin, Air Hitam, Kec. Tapung, Kabupaten Kampar, Riau 28291","0.5095516999999999, 101.35822",0.5095517,101.35822,
+Pkb25,Pondok Ikan Slai,82268479986,"JL. Impres, Maharatu, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28289","0.4536213, 101.4246086",0.4536213,101.4246086,
+Pkb26,Ikan Salai Bu Nurmasni,85365435354,"Jl. Soekarno - Hatta, Sidomulyo Tim., Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28289","0.4603134, 101.4183501",0.4603134,101.4183501,
+Pkb27,RM Pondok Selera Kampoeng,82171076663,"Jalan Sekolah No. 49 Kelurahan, Meranti Pandak, Kec. Rumbai Pesisir, Kota Pekanbaru, Riau 28261","0.5606350999999999, 101.4461104",0.5606351,101.4461104,
+Pkb28,Mie Lendir – Keday Kopi Setya,771315518,"Jl. Bintan Sudirman No.677, Simpang Empat, Kec. Pekanbaru Kota, Kota Pekanbaru, Riau 28127","0.5149448, 101.4495586",0.5149448,101.4495586,
+Pkb29,Mie Tanjung Pinang Pekanbaru,8127515432,"Jl. Jend. Ahmad Yani No.117, Tanah Datar, Kec. Pekanbaru Kota, Kota Pekanbaru, Riau 28156","0.5244641, 101.4422892",0.5244641,101.4422892,
+Pkb30,Kedai Kopi Kimteng - Mal Ciputra Seraya,761868788,"Mal Ciputra Seraya Lt. 2 Jalan Riau No. 58 Padang Terubuk, Kp. Baru, Kec. Senapelan, Kota Pekanbaru, Riau 28155","0.5361545, 101.4303621",0.5361545,101.4303621,
+Pwt6,Soto Sutri,0,"Jl. Pramuka No 09, Sokaraja, Kab. Banyumas","-7.457175800000001, 109.2872884",-7.4571758,109.2872884,
+Pwt7,Kraca Bu Lan,28142933,"Jl. Kauman Lama No. 31, Purwokerto","-7.425664599999999, 109.2460537",-7.4256646,109.2460537,
+Pwt8,Keong Kraca Bu Makmoer,87848139227,"Purwanegara Desa, Jl. Bobosan, RT.06/RW.01, Karangjambu, Purwanegara,","-7.407896500000001, 109.2271408",-7.4078965,109.2271408,
+Pwt9,Sahoun Ayam Pak Kartim,0,"Jl. Kaliputih No.18, Purwokerto Wetan, Kec. Purwokerto Timur","-7.4249606, 109.255232",-7.4249606,109.255232,
+Pwt10,Warung Buntil Bu Djoko,085747500607/082226731388,"Jalan Bank No. 8, Pesayangan, Kedungwuluh, Purwokerto","-7.421753600000001, 109.2264646",-7.4217536,109.2264646,
+Pwt11,Jenang Jaket Pertama,0,"Jl. PKK No.600, Mersi, Kec. Purwokerto Timur","-7.4279532, 109.265851",-7.4279532,109.265851,
+Srd6,RM Amado,81351661119,"Jl. Pangeran Diponegoro, No. 43",,#VALUE!,,
+Srd7,Warung Nasi Kuning Mama Agisna,85388467761,Jl. Pangeran Antasari Gang Karya,"-5.4072749, 105.2747062",-5.4072749,105.2747062,
+Srd8,Warung Nasi Kuning Bintang,85250688339,"Jl. Abdul Wahab Syahranie, No. 117 Sempaja Selatan","-0.4501939, 117.1512668",-0.4501939,117.1512668,
+Srd9,Warung Nasi Campur Hj. Mida,82351524430,"Jl. Siti Aisyah Gang 16, No. 34","-0.4960499, 117.134333",-0.4960499,117.134333,
+Srd10,WK. Pisang Gapit dan Roti Bakar “Voorfo”,85752489428,"Jl. Sawo, Sidodadi","-0.4751143, 117.1440308",-0.4751143,117.1440308,
+Srd11,Warung Nasi Kuning Acil Ipah,81346427625,"Jl. Pasundan, No. 01","-6.9227267, 107.6085033",-6.9227267,107.6085033,
+Srd12,Warung Pecel Family,82156684961,Jl. Pangeran Suryanata,"-0.4531068, 117.1114474",-0.4531068,117.1114474,
+Srd13,Warung Nasi Kuning “Hello Kitty”,81255718119,"Jl. Pangeran Antasari, Muara","-6.275421499999999, 106.8004034",-6.2754215,106.8004034,
+Srd14,RM Banjar Sari,541733070,"Jl. Dr. Suwondo, No. 2B","-0.4768021, 117.1446765",-0.4768021,117.1446765,
+Srd15,Gerai Roti Gembong Juanda,8115520800,Jl. Ir. H. Juanda 8,"-6.9050674, 107.6108738",-6.9050674,107.6108738,
+Srd16,Gerai Roti Durian Panglima,82220002237,"Jl. Ir. H. Juanda, No. 55A","3.5725428, 98.6831275",3.5725428,98.6831275,
+Skt6,Serabi Notosuman Ny. Lidia,271651852,"Jl. Moh. Yamin 28, Serengan, Surakarta","-7.577416899999999, 110.8200759",-7.5774169,110.8200759,
+Skt7,Tengkleng Klewer Bu Edi,271651552,"Jl. Mayr Sunaryo No. 32, Kedung Lumbu, Pasar Kliwon, Surakarta","-7.5731267, 110.8320702",-7.5731267,110.8320702,
+Skt8,Sate Sapi& Sate Kere Mbak Tug (Sate Presiden),81548328797,"Jl. Aripin 63, Kepatihan, Jebres","-7.5648449, 110.8306816",-7.5648449,110.8306816,
+Skt9,Nasi Liwet Bu Wongso Lemu,85711043461,"Jl. Teuku Umar, Keprabon, Solo","-7.5684108, 110.8237902",-7.5684108,110.8237902,
+Skt10,Nasi Liwet Yu Sani Solo Baru,0,"Jl. Ir. Soekarno No.8 Dusun II Langenharjo, Kec. Grogol, Sukoharjo","-7.611413799999999, 110.8185059",-7.6114138,110.8185059,
+Skt11,Sate Kere Yu Rebi,81548328797,"Jl. Kebangkitan Nasioal Kios 1-2 Sriwedari,","-7.569756699999999, 110.815358",-7.5697567,110.815358,
+Skt12,Selat Vien’s,271738396,Jl. Hasanudin No.99 D/E Solo,"-7.557958699999999, 110.8172219",-7.5579587,110.8172219,
+Skt13,Selat Solo Mbak Lies,271653332,"Jl. Veteran Gg II No.42, Serengan. Kec. Serangan, Solo","-7.582360199999999, 110.8179919",-7.5823602,110.8179919,
+Skt14,Nasi Liwet Bu Sarmi,0,"Jl. Kapten Mulyadi, Kedung Lumbu Kec: Pasar Kliwon, Surakarta","-7.574144499999999, 110.8327107",-7.5741445,110.8327107,
+Skt15,Cabuk Rambak dan Lenjongan,0,Pasar Gede Solo,"-7.5693775, 110.8314906",-7.5693775,110.8314906,
+Skt16,Gudeg Adem Ayem,8112952269,"Jl. Slamet Riyadi No. 342, Surakarta","-7.566020999999999, 110.8090779",-7.566021,110.8090779,
+Skt17,Es Masuk Gajahan,271654415,"Jl. Reksoniten 43, Gajahan, Pasar Kliwon, Surakarta","-7.581023099999999, 110.8229827",-7.5810231,110.8229827,
+Skt18,Omah Selat,271656205,"Jl. Gotong Royong No. 13, Jagalan, Kec: Jebres, Suarakarta","-7.566470699999999, 110.8431963",-7.5664707,110.8431963,
+Skt19,Es Nini Thowong,81329000315,"Jl. Arifin No.59, Kepatihan Wetan, Surakarta","-7.5651259, 110.8307363",-7.5651259,110.8307363,
+Skt20,Sate Kambing Pak Manto,0,"Jl. Honggowongso No.36 Sriwedari, Kec: Kaweyan, Surakarta","-7.5706076, 110.8168508",-7.5706076,110.8168508,
+Yog6,Bakpia Tugu Jogja,85228098027,"Jl. Bhayangkara No. 72 rt12/03, Ngampilan, kota Yogyakarta Daerah Istimewa Yogyakarta","-7.797410299999998, 110.3621441",-7.7974103,110.3621441,
+Yog7,Oseng-oseng Mercon Bu Narti,81915554472,"Jl. KH. Ahmad Dahlan Jl. Purwodiningratan No. 110, Ngampilan, Kota Yogyakarta, D. I. Yogyakarta","-7.801299599999999, 110.3574793",-7.8012996,110.3574793,
+Yog8,Oseng-oseng Mercon 62,8993883030,"Jl. KH. Ahmad Dahlan No. 62 Ngampilan, Kota Yogyakarta, D. I. Yogyakarta","-7.8010971, 110.3601814",-7.8010971,110.3601814,
+Yog9,Yangko Pak Prapto,274380757,"Jl. Pramuka No. 82, Giwangan, Umbulharjo, Kota Yogyakarta, D. I. Yogyakarta","-7.824134, 110.3901789",-7.824134,110.3901789,
+Yog10,Angkringan Kopi Joss Lik Man,0,"Jl. Wongsodirjan, Sosromenduran, Gedong Tengen, Kota Yogyakarta, D. I. Yogyakarta","-7.7887407, 110.3641549",-7.7887407,110.3641549,
+Yog11,Warung Kopi Klotok,82231312004,"Jl. Kaliurang No. Km. 16 Area Sawah Pakembinangun, Pakem, Sleman","-7.670343699999999, 110.4213171",-7.6703437,110.4213171,
+Yog12,Jadah Tempe Mbah Carik,81578558388,"Jl. Kaliurang No. Km. 12,5 Legolan, Umbulmartani, Ngemplak, Sleman, D. I. Yogyakarta","-7.7011441, 110.4149483",-7.7011441,110.4149483,
+Yog13,Soto Bathok Mbah Katro,81392144526,"Sambisari, Purwomartani, Kalasan, Sleman, D. I. Yogyakarta","-7.7622019, 110.4515318",-7.7622019,110.4515318,
+Yog14,Geplak Mbok Tumpuk,274367751,"Sumuran, Palbapang, Taskombang, Palbapang, Kec. Bantul, Bantul, D. I. Yogyakarta","-7.8971686, 110.323396",-7.8971686,110.323396,
+Yog15,Sate Klatak Pak Pong,8112645251,"Jl. Sultan Agung No. 18, Jejeran ll, Wonokromo, Kec. Pleret, Bantul, D. I. Yogyakarta","-7.871242799999999, 110.3875041",-7.8712428,110.3875041,
+Yog16,Mie Lethek Bantul Mbah Mendes Sorobayan,85293137649,"Jl. Murtigading, Sorobayan, Gadingsari, Sanden, Bantul, D. I. Yogyakarta","-7.970576599999998, 110.257283",-7.9705766,110.257283,
+Yog17,Wedang Uwuh Imogiri,82221311992,"Jl. Tilamat, Wukirsari, Imogiri, Bantul, D. I. Yogyakarta","-7.923589100000001, 110.3868796",-7.9235891,110.3868796,
+Yog18,Wedang Uwuh Wak Aan,85609964982,"Jl. Jurug No. RT 03, Jurug, Bangunharjo, Sewon, Bantul, D. I. Yogyakarta","-7.854569799999999, 110.3645496",-7.8545698,110.3645496,
+Yog19,Gathot Thiwul Yu Tum,81328741792,"Jl. Pramuka No. 36, Pandansari, Wonosari, Kec. Wonosari, Gunungkidul","-7.963684199999999, 110.6092117",-7.9636842,110.6092117,
+Yog20,Pusat Oleh-oleh Walang Goreng Pak Gareng,81332604081,"Jl. Dharmakum Dharmakusuma Selang l Kel Selang V, Selang, Kec. Wonosari, Gunungkidul, D. I. Yogyakarta","-7.966226400000001, 110.6173844",-7.9662264,110.6173844,
+Yog21,Nasi Merah Lombok Ijo Lek War,87839272513,"Jl. Jogja-Wonosari, Jamburejo, Bandung, Playen, Gunungkidul, D. I. Yogyakarta","-7.9227984, 110.5630002",-7.9227984,110.5630002,
+Yog22,Bakmi Mbah Gito,85228408800,"Jl. Nyi Agengnis No. 9, Rejowinangun, Kotagede, Kota Yogyakarta, D. I. Yogyakarta","-7.813261799999999, 110.3971161",-7.8132618,110.3971161,
+Yog23,Geblek Pari Nanggulan Kulonprogo Yogyakarta,0,"Jl. Pronosutan, Kembang, Nanggulan, Kulonprogo","-7.747244599999999, 110.2059948",-7.7472446,110.2059948,
+Yog24,Pasar Kuliner Sentolo Baru,0,"Jl. Raya Wates - Jogjakarta, Klebakan, Salamrejo, Kec. Sentolo, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta","-7.844828899999999, 110.218231",-7.8448289,110.218231,
