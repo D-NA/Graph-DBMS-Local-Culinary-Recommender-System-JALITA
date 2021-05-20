@@ -3,7 +3,7 @@ Rancang bangun Graph DBMS untuk sistem rekomendasi kuliner lokal dengan nama apl
 
 ## Query untuk load data CSV
 ```
-LOAD CSV WITH HEADERS FROM "file:///'LOKASI DIRECTORY'" AS row
+LOAD CSV WITH HEADERS FROM "file:///'LOKASI DIRECTORY'/namafile.csv" AS row
 CREATE (n:'NAMA NODE')
 SET n = row
 ```
