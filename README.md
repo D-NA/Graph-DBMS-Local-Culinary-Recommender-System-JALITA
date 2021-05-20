@@ -19,13 +19,13 @@ Rancang bangun Graph DBMS untuk sistem rekomendasi kuliner lokal dengan nama apl
 - LIMIT 5
 
 ## Query untuk memberikan rekomendasi menggunakan Content Based
-> Berdasarkan pembelian mereka sebelumnya, dapatkah kita merekomendasikan sesuatu yang belum mereka beli? Untuk setiap produk yang dibeli pelanggan kita, mari kita lihat apa yang juga dibeli oleh pelanggan lain. Setiap :Menu terkait dengan :Category sehingga kita dapat menggunakannya untuk lebih mempersempit daftar produk yang akan direkomendasikan.
+> Berdasarkan transaksi pembelian mereka sebelumnya, apakah kita bisa merekomendasikan menu yang belum mereka beli? Oleh karena itu untuk setiap produk yang dibeli pelanggan kita, mari kita lihat apa yang juga dibeli oleh pelanggan lain. Setiap > :Menu terkait dengan > :Category sehingga kita dapat menggunakannya untuk lebih mempersempit daftar produk yang akan direkomendasikan.
 
-"MATCH (c:Customer)-[:PURCHASED]->(o:Order)-[:PRODUCT]->(p:Product)
-<-[:PRODUCT]-(o2:Order)-[:PRODUCT]->(p2:Product)-[:PART_OF]->(:Category)<-[:PART_OF]-(p)
-WHERE c.customerID = 'ANTON' and NOT( (c)-[:PURCHASED]->(:Order)-[:PRODUCT]->(p2) )
-RETURN c.companyName, p.productName AS has_purchased, p2.productName AS has_also_purchased, count(DISTINCT o2) AS occurrences
-ORDER BY occurrences DESC
-LIMIT 5"
+- "MATCH (c:Customer)-[:PURCHASED]->(o:Order)-[:PRODUCT]->(p:Product)
+- <-[:PRODUCT]-(o2:Order)-[:PRODUCT]->(p2:Product)-[:PART_OF]->(:Category)<-[:PART_OF]-(p)
+- WHERE c.customerID = 'ANTON' and NOT( (c)-[:PURCHASED]->(:Order)-[:PRODUCT]->(p2) )
+- RETURN c.companyName, p.productName AS has_purchased, p2.productName AS has_also_purchased, count(DISTINCT o2) AS occurrences
+- ORDER BY occurrences DESC
+- LIMIT 5"
 
 > *Beberapa query disadur dari https://neo4j.com/graphgist/northwind-recommendation-engine
