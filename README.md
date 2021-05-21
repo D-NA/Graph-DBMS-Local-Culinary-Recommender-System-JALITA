@@ -36,4 +36,10 @@ ORDER BY occurrences DESC
 LIMIT 5
 ```
 
+## Query untuk melihat data history Customer
+```
+MATCH (n:Order) 
+WHERE n.customerID = "C0001" 
+RETURN n
+```
 > *Beberapa query disadur dari https://neo4j.com/graphgist/northwind-recommendation-engine
