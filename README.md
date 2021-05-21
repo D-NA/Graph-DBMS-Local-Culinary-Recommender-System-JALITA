@@ -39,7 +39,7 @@ LIMIT 5
 ## Query untuk melihat data history Customer
 ```
 MATCH (n:Order) 
-WHERE n.customerID = "C0001" 
+WHERE n.customerID = "-ID Customer-" 
 RETURN n
 ```
 > *Beberapa query disadur dari https://neo4j.com/graphgist/northwind-recommendation-engine
