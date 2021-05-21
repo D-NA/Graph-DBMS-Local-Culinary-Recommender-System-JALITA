@@ -28,10 +28,10 @@ ORDER BY orders DESC
 > Berdasarkan transaksi pembelian mereka sebelumnya, apakah kita bisa merekomendasikan menu yang belum mereka beli? Oleh karena itu untuk setiap produk yang dibeli pelanggan kita, mari kita lihat apa yang juga dibeli oleh pelanggan lain. Setiap :Menu terkait dengan :Category sehingga kita dapat menggunakannya untuk lebih mempersempit daftar produk yang akan direkomendasikan.
 
 ```
-MATCH (c:Customer)-[:PURCHASED]->(o:Order)-[:PRODUCT]->(p:Product)
-<-[:PRODUCT]-(o2:Order)-[:PRODUCT]->(p2:Product)-[:PART_OF]->(:Category)<-[:PART_OF]-(p)
-WHERE c.customerID = 'ANTON' and NOT( (c)-[:PURCHASED]->(:Order)-[:PRODUCT]->(p2) )
-RETURN c.companyName, p.productName AS has_purchased, p2.productName AS has_also_purchased, count(DISTINCT o2) AS occurrences
+MATCH (c:Customer)-[:PURCHASED]->(o:Order)-[:HAS_PRODUCER]->(r:Restoran)
+<-[:HAS_PRODUCER]-(o2:Order)-[:CONTAINS]->(m2:Menu)-[:CATEGORY_OF]->(:Category)<-[:PART_OF]-(m)
+WHERE c.customerID = 'C0001' and NOT( (c)-[:PURCHASED]->(:Order)-[:CONTAINS]->(m2) )
+RETURN c.restoName, m.makananName AS has_purchased, m2.makananName AS has_also_purchased, count(DISTINCT o2) AS occurrences
 ORDER BY occurrences DESC
 LIMIT 5
 ```
@@ -39,7 +39,7 @@ LIMIT 5
 ## Query untuk melihat data history Customer
 ```
 MATCH (n:Order) 
-WHERE n.customerID = "-ID Customer-" 
+WHERE n.customerID = "C0001" 
 RETURN n
 ```
 > *Beberapa query disadur dari https://neo4j.com/graphgist/northwind-recommendation-engine
