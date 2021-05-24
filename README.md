@@ -21,8 +21,8 @@ CREATE ('n1')-[:'NAMA RELATIONSHIPS']->('n2')
 MATCH (c:Customer)-[:PURCHASED]->(o:Order)-[:CONTAINS]->(m:Menu)
 RETURN "c.companyName, p.productName, count(o) AS orders"
 ORDER BY orders DESC
+LIMIT 5
 ```
-- LIMIT 5
 
 ## Query untuk memberikan rekomendasi menggunakan pendekatan Content-Based
 > Berdasarkan transaksi pembelian mereka sebelumnya, apakah kita bisa merekomendasikan menu yang belum mereka beli? Oleh karena itu untuk setiap produk yang dibeli pelanggan kita, mari kita lihat apa yang juga dibeli oleh pelanggan lain. Setiap :Menu terkait dengan :Category sehingga kita dapat menggunakannya untuk lebih mempersempit daftar produk yang akan direkomendasikan.
