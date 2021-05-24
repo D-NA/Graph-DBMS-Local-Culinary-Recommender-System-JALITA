@@ -42,4 +42,13 @@ MATCH (n:Order)
 WHERE n.customerID = "C0001" 
 RETURN n
 ```
+
+## The Cypher to show cosine and Gower distance in graph database
+```
+match (n1:Product {pro_id:'Pro7'}) -[rel:GOWER]- (n2:Product 
+{sub_districts:'Kelapa Gading'})-[r:COSINE]-(n1:Product)
+return n1.pro_id as src, n2.pro_id as des, r.cosine_distance as cosine, 
+rel.gower_distance as gower
+```
+
 > *Beberapa query disadur dari https://neo4j.com/graphgist/northwind-recommendation-engine
