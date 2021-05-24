@@ -1,6 +1,14 @@
 # Graph-DBMS-Local-Culinary-Recommender-System-JALITA
 Rancang bangun Graph DBMS untuk sistem rekomendasi kuliner lokal dengan nama aplikasi JALITA
 
+## Fundamental
+Konsep graf dalam menyimpan data
+
+Node: Rekaman data graf
+Relationship: Untuk menyambungkan antar node (punya arah dan tipe hubungan)
+Property: Menyimoan data dalam pasangan key-value dalam node and relationship
+Label: Kelompok node and relationship (opsional)
+
 ## Query untuk load data CSV
 ```
 LOAD CSV WITH HEADERS FROM "file:///'LOKASI DIRECTORY'/namafile.csv" AS row
@@ -51,4 +59,6 @@ return n1.pro_id as src, n2.pro_id as des, r.cosine_distance as cosine,
 rel.gower_distance as gower
 ```
 
-> *Beberapa query disadur dari https://neo4j.com/graphgist/northwind-recommendation-engine
+> *Beberapa query disadur dari: 
+- https://neo4j.com/graphgist/northwind-recommendation-engine
+- https://gist.github.com/DaniSancas/1d5265fc159a95ff457b940fc5046887
