@@ -58,6 +58,6 @@ return n1.pro_id as src, n2.pro_id as des, r.cosine_distance as cosine,
 rel.gower_distance as gower
 ```
 
-> *Beberapa query disadur dari: 
+> *Beberapa query dikutip dari: 
 - https://neo4j.com/graphgist/northwind-recommendation-engine
 - https://gist.github.com/DaniSancas/1d5265fc159a95ff457b940fc5046887
