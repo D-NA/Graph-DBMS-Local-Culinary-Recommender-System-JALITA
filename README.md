@@ -26,9 +26,8 @@ CREATE ('n1')-[:'NAMA RELATIONSHIPS']->('n2')
 ## Query untuk menemukan produk paling populer di dataset
 ```
 MATCH (c:Customer)-[:PURCHASED]->(o:Order)-[:CONTAINS]->(m:Menu)
-RETURN "c.companyName, p.productName, count(o) AS orders"
+RETURN c.customerID, m.menuName, count(o) AS orders
 ORDER BY orders DESC
-LIMIT 5
 ```
 
 ## Query untuk memberikan rekomendasi menggunakan pendekatan Content-Based
