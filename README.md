@@ -34,12 +34,11 @@ ORDER BY orders DESC
 > Berdasarkan transaksi pembelian mereka sebelumnya, apakah kita bisa merekomendasikan menu yang belum mereka beli? Oleh karena itu untuk setiap produk yang dibeli pelanggan kita, mari kita lihat apa yang juga dibeli oleh pelanggan lain. Setiap :Menu terkait dengan :Category sehingga kita dapat menggunakannya untuk lebih mempersempit daftar produk yang akan direkomendasikan.
 
 ```
-MATCH (c:Customer)-[:PURCHASED]->(o:Order)-[:HAS_PRODUCER]->(r:Restoran)
-<-[:HAS_PRODUCER]-(o2:Order)-[:CONTAINS]->(m2:Menu)-[:CATEGORY_OF]->(:Category)<-[:PART_OF]-(m)
-WHERE c.customerID = 'C0001' and NOT( (c)-[:PURCHASED]->(:Order)-[:CONTAINS]->(m2) )
-RETURN c.restoName, m.makananName AS has_purchased, m2.makananName AS has_also_purchased, count(DISTINCT o2) AS occurrences
+MATCH (c:Customer)-[:PURCHASED]->(o:Order)-[:CONTAINS]->(m:Menu)
+<-[:CONTAINS]-(o2:Order)-[:CONTAINS]->(m2:Menu)-[:CATEGORY_OF]->(:Kategori)<-[:CATEGORY_OF]-(m)
+WHERE c.customerID = 'C0002' and NOT((c)-[:PURCHASED]->(:Order)-[:CONTAINS]->(m2))
+RETURN c.customerName, m.makananName AS has_purchased, m2.makananName AS has_also_purchased, count(DISTINCT o2) AS occurrences
 ORDER BY occurrences DESC
-LIMIT 5
 ```
 
 ## Query untuk melihat data history Customer
