@@ -48,6 +48,15 @@ WHERE n.customerID = "C0001"
 RETURN n
 ```
 
+## Query untuk melihat penilaian Customer terhadap Menu yang dibeli
+```
+MATCH (me:Customer)-[r:PURCHASED]->(o:Order)
+WHERE me.customerID = 'C0001'
+RETURN o.customerID, o.menuID, o.ratingMakanan, o.ratingResto
+```
+
+## Query untuk 
+
 ## The Cypher to show cosine and Gower distance in graph database
 ```
 match (n1:Product {pro_id:'Pro7'}) -[rel:GOWER]- (n2:Product 
@@ -56,6 +65,6 @@ return n1.pro_id as src, n2.pro_id as des, r.cosine_distance as cosine,
 rel.gower_distance as gower
 ```
 
-> *Beberapa query dikutip dari: 
+> *Beberapa query bersumber dari: 
 - https://neo4j.com/graphgist/northwind-recommendation-engine
 - https://gist.github.com/DaniSancas/1d5265fc159a95ff457b940fc5046887
