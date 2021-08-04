@@ -4,9 +4,50 @@
 CREATE (n:Customer)
 SET n = row'
 
-### Load csv label Asal kuliner
+### Load csv label Preferensi
 
-'LOAD CSV WITH HEADERS FROM "file:///asal_kuliner.csv" AS row
-CREATE (n:Customer)
+'LOAD CSV WITH HEADERS FROM "file:///preferensi.csv" AS row
+CREATE (n:Preferensi)
 SET n = row'
 
+### Load csv label Wilayah
+
+'LOAD CSV WITH HEADERS FROM "file:///asal_kuliner.csv" AS row
+CREATE (n:Wilayah)
+SET n = row'
+
+### Load csv Baseline Makanan
+
+'LOAD CSV WITH HEADERS FROM "file:///baseline_makanan.csv" AS row
+CREATE (n:BaselineMakanan)
+SET n = row'
+
+### Load csv Baseline Preferensi
+
+'LOAD CSV WITH HEADERS FROM "file:///baseline_preferensi.csv" AS row
+CREATE (n:BaselinePreferensi)
+SET n = row'
+
+### Load csv label Kategori
+
+'LOAD CSV WITH HEADERS FROM "file:///kategori.csv" AS row
+CREATE (n:Kategori)
+SET n = row'
+
+### Load csv label Restoran
+
+'LOAD CSV WITH HEADERS FROM "file:///restoran.csv" AS row
+CREATE (n:Restoran)
+SET n = row'
+
+### Load csv label Order
+
+'LOAD CSV WITH HEADERS FROM "file:///transaksi.csv" AS row
+CREATE (n:Order)
+SET n = row'
+
+### Load csv label Menu
+
+'LOAD CSV WITH HEADERS FROM "file:///menu.csv" AS row
+CREATE (n:Menu)
+SET n = row'
