@@ -1,0 +1,12 @@
+### Load csv label Customer
+
+'LOAD CSV WITH HEADERS FROM "file:///customer.csv" AS row
+CREATE (n:Customer)
+SET n = row'
+
+### Load csv label Asal kuliner
+
+'LOAD CSV WITH HEADERS FROM "file:///asal_kuliner.csv" AS row
+CREATE (n:Customer)
+SET n = row'
+
