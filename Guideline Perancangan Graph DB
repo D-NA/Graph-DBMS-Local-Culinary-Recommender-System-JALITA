@@ -1,3 +1,4 @@
+##LOAD CSV ke Neo4j
 ### Load csv label Customer
 
 'LOAD CSV WITH HEADERS FROM "file:///customer.csv" AS row
@@ -51,3 +52,51 @@ SET n = row'
 'LOAD CSV WITH HEADERS FROM "file:///menu.csv" AS row
 CREATE (n:Menu)
 SET n = row'
+
+## Buat relationship
+### 1. Purchased
+MATCH (n1:Customer),(n2:Order)
+WHERE n1.userID = n2.customerID
+CREATE (n1)-[:PURCHASED]->(n2)
+
+### 2. Contains
+MATCH (n1:Order),(n2:Menu)
+WHERE n1.menuID = n2.menuID
+CREATE (n1)-[:CONTAINS]->(n2)
+
+### 3. Has_producer
+MATCH (n1:Menu),(n2:Restoran)
+WHERE n1.restoID = n2.restoID
+CREATE (n1)-[:HAS_PRODUCER]->(n2)
+
+### 4. Located_in
+MATCH (n1:Restoran),(n2:Wilayah)
+WHERE n1.asalID = n2.asalID
+CREATE (n1)-[:LOCATED_IN]->(n2)
+
+### 5. Category_of
+MATCH (n1:Menu),(n2:Kategori)
+WHERE n1.kategoriID = n2.kategoriID
+CREATE (n1)-[:CATEGORY_OF]->(n2)
+
+MATCH (n1:Preferensi),(n2:Kategori)
+WHERE n1.kategoriID = n2.kategoriID
+CREATE (n1)-[:CATEGORY_OF]->(n2)
+
+MATCH (n1:BaselineMakanan),(n2:Kategori)
+WHERE n1.kategoriID = n2.kategoriID
+CREATE (n1)-[:CATEGORY_OF]->(n2)
+
+### 6. HAS_ORIGIN
+MATCH (n1:BaselineMakanan),(n2:Wilayah)
+WHERE n1.asalID = n2.asalID
+CREATE (n1)-[:HAS_ORIGIN]->(n2)
+
+MATCH (n1:Preferensi),(n2:Wilayah)
+WHERE n1.asalID = n2.asalID
+CREATE (n1)-[:HAS_ORIGIN]->(n2)
+
+### 7. Preference_of
+MATCH (n1:Preferensi),(n2:Customer)
+WHERE n1.customerID = n2.customerID
+CREATE (n1)-[:PREFERENCE_OF]->(n2)
