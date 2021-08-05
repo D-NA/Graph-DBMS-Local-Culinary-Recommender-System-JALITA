@@ -100,3 +100,8 @@ CREATE (n1)-[:HAS_ORIGIN]->(n2)
 MATCH (n1:Preferensi),(n2:Customer)
 WHERE n1.customerID = n2.customerID
 CREATE (n1)-[:PREFERENCE_OF]->(n2)
+
+### 8.Rated
+MATCH (a:Customer),(b:Menu)
+WHERE a.userID = 'U001' AND b.menuName = 'Mie aceh'
+CREATE (a)-[r:RATED {rate: 4.8}]->(b)
